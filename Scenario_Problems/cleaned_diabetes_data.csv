@@ -1,0 +1,6 @@
+Age,Height,Weight,Blood Pressure,Glucose Level,Diabetes,Gender_Male,Blood Group_A-,Blood Group_AB+,Blood Group_B+,Blood Group_O+
+45,160,70,120,85,0,False,False,False,False,False
+50,175,85,130,140,1,True,False,False,True,False
+29,180,78,115,90,0,True,False,False,False,True
+62,168,92,140,160,1,True,False,True,False,False
+38,155,60,118,95,0,False,True,False,False,False
